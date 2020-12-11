@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seungwan Hong's Homepage"
+title                    : "Seungwan Hong's Website"
 title_separator          : "-"
 name                     : &name "Seungwan Hong"
 description              : &description "Ph.D Student in SNU"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seungwan Hong"
   avatar           : "profile.jpg"
-  bio              : "Ph.D Student,\\Department of Mathematical Sciences,\\Seoul National University"
+  bio              : "Ph.D Student,\nDepartment of Mathematical Sciences,\nSeoul National University"
   location         : "Seoul, Republic of Korea"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
