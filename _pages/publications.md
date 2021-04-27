@@ -25,8 +25,10 @@ Jung Hee Cheon, Minki Hhan, **Seungwan Hong** and Yongha Son
 
 ## Preprints
 
+1. [[HKC+21]](https://eprint.iacr.org/2021/551.pdf) "Efficient Sorting of Homomorphic Encrypted
+Data with k-way Sorting Network"  
+**\*Seungwan Hong**, Seunghong Kim, Jiheon Choi, Younho Lee, and Jung Hee Cheon
+
 1. [[KHB+20]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v2.full.pdf) "Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation"  
 \*Miran Kim, \*Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, **Seungwan Hong**, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza and Xiaoqian Jiang
 
-1. [HKC+20] "Efficient Homomorphic Sorting on Large-scale Data with Parallel Algorithm"  
-**\*Seungwan Hong**, Seunghong Kim, Jiheon Choi, Younho Lee, and Jung Hee Cheon
