@@ -17,7 +17,7 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
-- The paper [[HKC+21]](https://eprint.iacr.org/2021/551.pdf) with the title "Efficient Sorting of Homomorphic Encrypted Data with k-way Sorting Network" is now available at ePrint.
+- The paper [[HKC+21]](https://eprint.iacr.org/2021/551.pdf) with the title "Efficient Sorting of Homomorphic Encrypted Data with k-way Sorting Network" is accepted to [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206).
 
 - My SNU team was chosen as one of the first winners of Track 1 in iDASH 2020 competition! [(link)](http://www.humangenomeprivacy.org/2020/)
 
