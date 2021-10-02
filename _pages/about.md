@@ -14,6 +14,7 @@ Additionally, I am broadly interested in all aspects of cryptography and mathema
 
 I received my Bachelor's degree with Highest Honors from Mathematical Sciences at SNU in 2016.
 
+**I am currently on the job market!**
 
 ## News and Upcoming Events
 
