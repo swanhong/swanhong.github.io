@@ -15,6 +15,8 @@ Additionally, I am broadly interested in all aspects of cryptography and mathema
 
 ## News and Upcoming Events
 
+- [Mar, 2022] The paper [HPC+22] with the title "Secure Tumor Classification by Shallow Neural Network Using Homomorphic Encryption" is accepted to BMC Medical Genomics.
+
 - [Dec, 2021] Accepted the offer of Postdoctoral Research Associate from [Gamze Gürsoy](https://g2lab.org/), a professor in Columbia University and a member at the New York Genome Center. I'm moving to New York!
 
 - [May, 2021] The paper [[HKC+21]](https://eprint.iacr.org/2021/551.pdf) with the title "Efficient Sorting of Homomorphic Encrypted Data with k-way Sorting Network" is accepted to [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206).
