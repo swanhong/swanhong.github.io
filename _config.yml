@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seungwan Hong's Website"
 title_separator          : "-"
 name                     : &name "Seungwan Hong"
-description              : &description "Ph.D Student in SNU"
+description              : &description "Postdoc in NYGC"
 url                      : https://swanhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swanhong/swanhong.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Seungwan Hong"
   avatar           : "profile.jpg"
-  bio              : "Ph.D Student,\nDepartment of Mathematical Sciences,\nSeoul National University"
-  location         : "Seoul, Republic of Korea"
+  bio              : "Postdoc in NYGC and Columbia University"
+  location         : "Manhattan, New York, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=63iH4ZQAAAAJ"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/seungwan-hong-b64b68208/"
+  linkedin         : "seungwan-hong-b64b68208/"
   orcid            : # "http://orcid.org/yourorcidurl" # TODO
   pinterest        :
   soundcloud       :
