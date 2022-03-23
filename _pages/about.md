@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate advised by Prof. [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/) in the Department of Mathematical Sciences at Seoul National University (SNU).
+I am a Postdoctoral Research Associate in the [Gamze Gürsoy's lab](http://g2lab.org) starting March 2022. I received Ph.D. degree from the Department of Mathematical Science, Seoul National University in Seoul, South Korea, advised by Prof. [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). My main research topics are practical aspects of cryptosystems, including homomorphic encryption and privacy-preserving machine learning applications.
+
+<!-- I am a Ph.D. candidate advised by Prof. [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/) in the Department of Mathematical Sciences at Seoul National University (SNU).
 My major research topics are homomorphic encryption and its applications, including algorithms for homomorphic non-arithmetic operations and privacy-preserving machine learning.
 Additionally, I am broadly interested in all aspects of cryptography and mathematical problems derived from them. 
-
+ -->
 
 ## News and Upcoming Events
 
