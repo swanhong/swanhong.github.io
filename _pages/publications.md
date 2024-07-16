@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 Authors are listed in alphabetical order by last name, unless an asterisk(*) is indicated.
+Co-corresponding authorship is indicated by #.
+
 
 ## Conference
 
@@ -14,6 +16,14 @@ Authors are listed in alphabetical order by last name, unless an asterisk(*) is 
 Innovative Applications of Artificial Intelligence (IAAI), 2019.
 
 ## Journal
+
+1. [[HCJG24]](https://www.sciencedirect.com/science/article/pii/S1532046424000960) "Privacy-preserving model evaluation for logistic and linear regression using homomorphically encrypted genotype data"
+**\*Seungwan Hong**, \*Yoolim A. Choi, Daniel S. Joo, and Gamze Gürsoy
+Journal of Biomedical Informatics, 2024.
+
+1. [[HPC+22]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08469-w) "Secure Multi-Label Tumor Classification Using Homomorphic Encryption."
+**\*Seungwan Hong**, Jai Hyun Park, Wonhee Cho, Hyeongmin Choe, and Jung Hee Cheon
+BMC Genomics, 2022.
 
 1. [[KHB+20]](https://www.sciencedirect.com/science/article/pii/S240547122100288X) "Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation"  
 \*Miran Kim, \*Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, **Seungwan Hong**, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza, and Xiaoqian Jiang
@@ -37,9 +47,9 @@ BMC Genomics, 2019.
 
 ## Preprints
 
-1. [[HPC+21]](https://www.researchsquare.com/article/rs-584746/v1) "Secure Multi-Label Tumor Classification Using Homomorphic Encryption."
-\***Seungwan Hong**, Jai Hyun Park, Wonhee Cho, Hyeongmin Choe, and Jung Hee Cheon
-Submitted
+1. [[BKH+24]](https://www.biorxiv.org/content/10.1101/2024.04.16.589793v1.full.pdf) "Ultra-secure storage and analysis of genetic data for the advancement of precision medicine"
+\*Jacob Blindenbach, \*Jiayi Kang*, **\*Seungwan Hong#**, Caline Karam, Thomas Lehner, and Gamze Gürsoy#
+Biorxiv
 
 1. [[CHK20]](https://eprint.iacr.org/2020/1581) "Remark on the Security of CKKS Scheme in Practice."
 Jung Hee Cheon, **Seungwan Hong**, and Duhyeong Kim
