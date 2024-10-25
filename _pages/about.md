@@ -15,9 +15,15 @@ My major research topics are homomorphic encryption and its applications, includ
 Additionally, I am broadly interested in all aspects of cryptography and mathematical problems derived from them. 
  -->
 
+ I am a Postdoctoral Research Associate in the [Gamze Gürsoy](http://g2lab.org)'s lab, where I have been working since March 2022. I received my Ph.D. from the Department of Mathematical Science at Seoul National University, South Korea, advised by [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). 
+ 
+ My primary research focuses on practical applications of cryptosystems, especially in homomorphic encryption, privacy-preserving machine learning, and genomic data privacy. I work extensively with Fully Homomorphic Encryption (FHE), optimizing FHE schemes algorithmically and developing algorithms to enable non-arithmetic operations within FHE. In privacy-preserving machine learning, I adapt machine learning algorithms to FHE-compatible formats, utilizing polynomial approximation techniques to achieve secure and efficient computation. My research in genomic data privacy emphasizes designing FHE-based frameworks that enable secure transformations of conventional genomic applications, protecting sensitive genomic information. I am also dedicated to advancing functional encryption by creating schemes that offer enhanced efficiency and functionality.
+
 ## News and Upcoming Events
 
-- [Jun, 2024] The paper "Ultra-secure storage and analysis of genetic data for the advancement of precision medicine" is uploaded on [Biorxiv](Ultra-secure storage and analysis of genetic data for the advancement of precision medicine).
+- [Oct, 2024] The paper "Ultra-Secure Storage and Analysis of Genetic Data for the Advancement of Precision Medicine" is accepted for publication in *Genome Biology*.
+
+<!-- - [Jun, 2024] The paper "Ultra-secure storage and analysis of genetic data for the advancement of precision medicine" is uploaded on [Biorxiv](Ultra-secure storage and analysis of genetic data for the advancement of precision medicine). -->
 
 - [Jun, 2024] The paper "Privacy-preserving model evaluation for logistic and linear regression using homomorphically encrypted genotype data" is accepted to [Journal of Biomedical Informatics](https://www.sciencedirect.com/science/article/pii/S1532046424000960).
 
