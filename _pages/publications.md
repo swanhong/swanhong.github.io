@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Authors are listed in alphabetical order by last name (see [AMS statement](https://www.ams.org/profession/leaders/CultureStatement04.pdf)), unless an asterisk(*) is indicated.
-Co-corresponding authorship is indicated by #.
+- An asterisk (\*) indicates co‑first authors and a hash (#) indicates co‑corresponding authors.
+- A dagger (†) indicates authors listed in alphabetical order, with all authors contributing equally. For more information, see [AMS statement](https://www.ams.org/profession/leaders/CultureStatement04.pdf).
 
 ## Journal
 
@@ -35,7 +35,7 @@ Co-corresponding authorship is indicated by #.
    *BMC Medical Genomics*, 2020.
 
 7. [[CHHS19]](https://ieeexplore.ieee.org/document/8747481) "A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE"  
-   Jung Hee Cheon, Minki Hhan, **Seungwan Hong**, and Yongha Son  
+   †Jung Hee Cheon, Minki Hhan, **Seungwan Hong**, and Yongha Son  
    *IEEE Access*, 2019.
 
 8. [[PKS+19]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5473-z) "A Secure SNP Panel Scheme Using Homomorphically Encrypted K-mers Without SNP Calling on the User Side"  
@@ -52,8 +52,12 @@ Co-corresponding authorship is indicated by #.
 
 1. [[BKW+24]] "Secure and Scalable Gene Expression Quantification with pQuant"  
    **\*Seungwan Hong**, Conor R. Walker*, Annie Y. Choi, and Gamze Gürsoy  
-   *under review*, 2024.
+   under review, 2024.
 
-2. [[CHK20]](https://eprint.iacr.org/2020/1581) "Remark on the Security of CKKS Scheme in Practice"  
-   Jung Hee Cheon, **Seungwan Hong**, and Duhyeong Kim  
+2. [[HKLS]] "Fully Encrypted Machine Learning Protocol using Functional Encryption"
+    †**Seungwan Hong**, Jiseung Kim, Changmin Lee, and Minhye Seo
+    under review, 2024.
+
+3. [[CHK20]](https://eprint.iacr.org/2020/1581) "Remark on the Security of CKKS Scheme in Practice"   
+   †Jung Hee Cheon, **Seungwan Hong**, and Duhyeong Kim  
    *IACR Cryptol. ePrint Arch.*, 2020.
