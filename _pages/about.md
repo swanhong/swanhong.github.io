@@ -7,14 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Postdoctoral Research Associate in the [Gamze Gürsoy's lab](http://g2lab.org) starting March 2022. I received Ph.D. degree from the Department of Mathematical Science, Seoul National University in Seoul, South Korea, advised by Prof. [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). My main research topics are practical aspects of cryptosystems, including homomorphic encryption and privacy-preserving machine learning applications.
-
-<!-- I am a Ph.D. candidate advised by Prof. [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/) in the Department of Mathematical Sciences at Seoul National University (SNU).
-My major research topics are homomorphic encryption and its applications, including algorithms for homomorphic non-arithmetic operations and privacy-preserving machine learning.
-Additionally, I am broadly interested in all aspects of cryptography and mathematical problems derived from them. 
- -->
-
  I am a Postdoctoral Research Associate in the [Gamze Gürsoy](http://g2lab.org)'s lab, where I have been working since March 2022. I received my Ph.D. from the Department of Mathematical Science at Seoul National University, South Korea, advised by [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). 
  
  My primary research focuses on practical applications of cryptosystems, especially in homomorphic encryption, privacy-preserving machine learning, and genomic data privacy. I work extensively with Fully Homomorphic Encryption (FHE), optimizing FHE schemes algorithmically and developing algorithms to enable non-arithmetic operations within FHE. In privacy-preserving machine learning, I adapt machine learning algorithms to FHE-compatible formats, utilizing polynomial approximation techniques to achieve secure and efficient computation. My research in genomic data privacy emphasizes designing FHE-based frameworks that enable secure transformations of conventional genomic applications, protecting sensitive genomic information. I am also dedicated to advancing functional encryption by creating schemes that offer enhanced efficiency and functionality.
@@ -22,6 +14,8 @@ Additionally, I am broadly interested in all aspects of cryptography and mathema
 ## News and Upcoming Events
 
 - [Feb, 2025] The paper "Secure and Scalable Gene Expression Quantification with pQuant" is accepted for publication in *Nature Communication*.
+
+- [Nov, 2024] The paper "Fully Encrypted Machine Learning Protocol using Functional Encryption" is uploaded to ePrint Archive. We proposed fully encrypted fE-based PPML protocol, which supports the evaluation of arbitrary functions over encrypted data with no information leakage during computation, for the first time ([link](https://eprint.iacr.org/2024/1859)). 
 
 - [Oct, 2024] The paper "Ultra-Secure Storage and Analysis of Genetic Data for the Advancement of Precision Medicine" is accepted for publication in *Genome Biology*.
 

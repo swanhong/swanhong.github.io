@@ -10,11 +10,11 @@ author_profile: true
 
 ## Journal
 
-1. [[HWCG25]] "Secure and Scalable Gene Expression Quantification with pQuant"  
+1. [HWCG25] "Secure and Scalable Gene Expression Quantification with pQuant"  
    **Seungwan Hong**, Conor R. Walker*, Annie Y. Choi, and Gamze Gürsoy  
    *Nature Communication*, 2025, accepted in principle.
 
-1. [[BBK+24]] "Ultra-Secure Storage and Analysis of Genetic Data for the Advancement of Precision Medicine"  
+1. [[BBK+24]](https://pubmed.ncbi.nlm.nih.gov/38695012/) "Ultra-Secure Storage and Analysis of Genetic Data for the Advancement of Precision Medicine"  
    \*Jacob Blindenbach, \*Jiayi Kang, **\*Seungwan Hong#**, Caline Karam, Thomas Lehner, and Gamze Gürsoy#  
    *Genome Biology*, to be published, 2024.
 
@@ -54,11 +54,11 @@ author_profile: true
 
 ## Preprints
 
-1. [[HKLS]] "Composable Functional Encryption from Standard Lattice Assumptions"
+1. [HKLS25] "Composable Functional Encryption from Standard Lattice Assumptions"
     †**Seungwan Hong**, Jiseung Kim, Changmin Lee, and Minhye Seo
     under review, 2025.
 
-1. [[HKLS]](https://eprint.iacr.org/2024/1859) "Fully Encrypted Machine Learning Protocol using Functional Encryption"
+1. [[HKLS24]](https://eprint.iacr.org/2024/1859) "Fully Encrypted Machine Learning Protocol using Functional Encryption"
     †**Seungwan Hong**, Jiseung Kim, Changmin Lee, and Minhye Seo
     under review, 2024.
 
