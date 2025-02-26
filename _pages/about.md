@@ -21,11 +21,13 @@ Additionally, I am broadly interested in all aspects of cryptography and mathema
 
 ## News and Upcoming Events
 
+- [Feb, 2025] The paper "Secure and Scalable Gene Expression Quantification with pQuant" is accepted for publication in *Nature Communication*.
+
 - [Oct, 2024] The paper "Ultra-Secure Storage and Analysis of Genetic Data for the Advancement of Precision Medicine" is accepted for publication in *Genome Biology*.
 
 <!-- - [Jun, 2024] The paper "Ultra-secure storage and analysis of genetic data for the advancement of precision medicine" is uploaded on [Biorxiv](Ultra-secure storage and analysis of genetic data for the advancement of precision medicine). -->
 
-- [Jun, 2024] The paper "Privacy-preserving model evaluation for logistic and linear regression using homomorphically encrypted genotype data" is accepted to [Journal of Biomedical Informatics](https://www.sciencedirect.com/science/article/pii/S1532046424000960).
+<!-- - [Jun, 2024] The paper "Privacy-preserving model evaluation for logistic and linear regression using homomorphically encrypted genotype data" is accepted to [Journal of Biomedical Informatics](https://www.sciencedirect.com/science/article/pii/S1532046424000960). -->
 
 <!-- - [Mar, 2022] The paper [HPC+22] with the title "Secure Tumor Classification by Shallow Neural Network Using Homomorphic Encryption" is accepted to BMC Medical Genomics.
 
