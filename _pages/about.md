@@ -13,7 +13,7 @@ redirect_from:
 
 ## News and Upcoming Events
 
-- [Feb, 2025] The paper "Secure and Scalable Gene Expression Quantification with pQuant" is accepted for publication in *Nature Communication*.
+- [Feb, 2025] The paper "Secure and Scalable Gene Expression Quantification with pQuant" is published in *Nature Communications* ([link](https://www.nature.com/articles/s41467-025-57393-6)).
 
 - [Nov, 2024] The paper "Fully Encrypted Machine Learning Protocol using Functional Encryption" is uploaded to ePrint Archive. We proposed fully encrypted fE-based PPML protocol, which supports the evaluation of arbitrary functions over encrypted data with no information leakage during computation, for the first time ([link](https://eprint.iacr.org/2024/1859)). 
 

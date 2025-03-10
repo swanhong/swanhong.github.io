@@ -10,9 +10,9 @@ author_profile: true
 
 ## Journal
 
-1. [HWCG25] "Secure and Scalable Gene Expression Quantification with pQuant"  
+1. [[HWCG25]](https://www.nature.com/articles/s41467-025-57393-6) "Secure and Scalable Gene Expression Quantification with pQuant"  
    **Seungwan Hong**, Conor R. Walker*, Annie Y. Choi, and Gamze Gürsoy  
-   *Nature Communication*, 2025, accepted in principle.
+   *Nature Communications*, 2025,.
 
 1. [[BBK+24]](https://pubmed.ncbi.nlm.nih.gov/38695012/) "Ultra-Secure Storage and Analysis of Genetic Data for the Advancement of Precision Medicine"  
    \*Jacob Blindenbach, \*Jiayi Kang, **\*Seungwan Hong#**, Caline Karam, Thomas Lehner, and Gamze Gürsoy#  
