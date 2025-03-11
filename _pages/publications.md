@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- An asterisk (\*) indicates co‑first authors and a hash (#) indicates co‑corresponding authors.
+- An asterisk (\*) indicates co‑first authors.
 - A dagger (†) indicates authors listed in alphabetical order, with all authors contributing equally. For more information, see [AMS statement](https://www.ams.org/profession/leaders/CultureStatement04.pdf).
 
 ## Journal
@@ -15,8 +15,8 @@ author_profile: true
    *Nature Communications*, 2025.
 
 1. [[BBK+24]](https://pubmed.ncbi.nlm.nih.gov/38695012/) "Ultra-Secure Storage and Analysis of Genetic Data for the Advancement of Precision Medicine"  
-   \*Jacob Blindenbach, \*Jiayi Kang, **\*Seungwan Hong#**, Caline Karam, Thomas Lehner, and Gamze Gürsoy#  
-   *Genome Biology*, to be published, 2024.
+   \*Jacob Blindenbach, \*Jiayi Kang, **\*Seungwan Hong**, Caline Karam, Thomas Lehner, and Gamze Gürsoy  
+   *Genome Biology*, 2024.
 
 1. [[HCJG24]](https://www.sciencedirect.com/science/article/pii/S1532046424000960) "Privacy-preserving model evaluation for logistic and linear regression using homomorphically encrypted genotype data"  
    **Seungwan Hong**, Yoolim A. Choi, Daniel S. Joo, and Gamze Gürsoy  
