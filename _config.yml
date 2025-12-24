@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seungwan Hong's Website"
 title_separator          : "-"
 name                     : &name "Seungwan Hong"
-description              : &description "Postdoc in NYGC"
+description              : &description "Postdoctoral Associate at Yale University"
 url                      : https://swanhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swanhong/swanhong.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
