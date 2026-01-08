@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I am a Postdoctoral Associate at Yale University (starting Jan. 2026), working in the [Hoon Cho lab](https://hcholab.org/). My research focuses on secure genomic analysis, particularly applications of Homomorphic Encryption.
+ I am a Postdoctoral Associate at Yale University, working in the [Hoon Cho lab](https://hcholab.org/). My research focuses on secure genomic analysis, particularly applications of Homomorphic Encryption.
  
- Previously, I was a Postdoctoral Research Associate at the New York Genome Center & Columbia University (Mar. 2022 - Dec. 2025) in the [Gamze Gürsoy](http://g2lab.org)'s lab, where I led research on privacy-preserving methodologies for genomic data analysis. I received my Ph.D. from the Department of Mathematical Science at Seoul National University, South Korea, advised by [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). 
+ Previously, I was a Postdoctoral Research Associate at the New York Genome Center & Columbia University in the [Gamze Gürsoy's lab](http://g2lab.org), where I led research on privacy-preserving methodologies for genomic data analysis. I received my Ph.D. from the Department of Mathematical Science at Seoul National University, South Korea, advised by [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). 
  
  My primary research focuses on practical applications of cryptosystems, especially in homomorphic encryption, privacy-preserving machine learning, and genomic data privacy. I work extensively with Fully Homomorphic Encryption (FHE), optimizing FHE schemes algorithmically and developing algorithms to enable non-arithmetic operations within FHE. In privacy-preserving machine learning, I adapt machine learning algorithms to FHE-compatible formats, utilizing polynomial approximation techniques to achieve secure and efficient computation. My research in genomic data privacy emphasizes designing FHE-based frameworks that enable secure transformations of conventional genomic applications, protecting sensitive genomic information. I am also dedicated to advancing functional encryption by creating schemes that offer enhanced efficiency and functionality.
 
