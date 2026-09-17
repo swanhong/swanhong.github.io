@@ -14,13 +14,17 @@ redirect_from:
  My primary research focuses on practical applications of cryptosystems, especially in homomorphic encryption, privacy-preserving machine learning, and genomic data privacy. I work extensively with Fully Homomorphic Encryption (FHE), optimizing FHE schemes algorithmically and developing algorithms to enable non-arithmetic operations within FHE. In privacy-preserving machine learning, I adapt machine learning algorithms to FHE-compatible formats, utilizing polynomial approximation techniques to achieve secure and efficient computation. My research in genomic data privacy emphasizes designing FHE-based frameworks that enable secure transformations of conventional genomic applications, protecting sensitive genomic information. I am also dedicated to advancing functional encryption by creating schemes that offer enhanced efficiency and functionality.
 
 ## News and Upcoming Events
+- [May, 2026] The paper "MRFHE: Mixed-Radix Fully Homomorphic Encryption with Better Batch Bootstrapping" is uploaded to *IACR ePrint Archive* ([link](https://eprint.iacr.org/2026/853)).
+
+- [Apr, 2026] Gave a talk "Advances in FHE" at *Yale University* (CT, United States).
+
 - [Jan, 2026] I am starting a new position as a Postdoctoral Associate at Yale University!
 
-- [Feb, 2025] The paper "Secure and Scalable Gene Expression Quantification with pQuant" is published in *Nature Communications* ([link](https://www.nature.com/articles/s41467-025-57393-6)).
-
-- [Nov, 2025] Gave a talk "Homomorphic Encryption for Secure Data Analysis" at *Rochester Institute of Technology* (NY, United States).
+<!-- - [Nov, 2025] Gave a talk "Homomorphic Encryption for Secure Data Analysis" at *Rochester Institute of Technology* (NY, United States).
 
 - [Sep, 2025] Gave a talk "Homomorphic Encryption for Secure Data Analysis" at *City College of New York* (NY, United States).
+
+- [Feb, 2025] The paper "Secure and Scalable Gene Expression Quantification with pQuant" is published in *Nature Communications* ([link](https://www.nature.com/articles/s41467-025-57393-6)). -->
 
 <!-- - [Nov, 2024] The paper "Fully Encrypted Machine Learning Protocol using Functional Encryption" is uploaded to ePrint Archive. We proposed fully encrypted fE-based PPML protocol, which supports the evaluation of arbitrary functions over encrypted data with no information leakage during computation, for the first time ([link](https://eprint.iacr.org/2024/1859)). 
 

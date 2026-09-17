@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- An asterisk (\*) indicates co‑first authors.
+- An asterisk (\*) indicates co‑first authors and a hash (#) indicates co‑corresponding authors.
 - A dagger (†) indicates authors listed in alphabetical order, with all authors contributing equally. For more information, see [AMS statement](https://www.ams.org/profession/leaders/CultureStatement04.pdf).
 
 ## Journal
@@ -15,11 +15,11 @@ author_profile: true
    *Nature Communications*, 2025.
 
 1. [[BBK+24]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03447-9) "Ultra-Secure Storage and Analysis of Genetic Data for the Advancement of Precision Medicine"  
-   \*Jacob Blindenbach, \*Jiayi Kang, **\*Seungwan Hong**, Caline Karam, Thomas Lehner, and Gamze Gürsoy  
+   \*Jacob Blindenbach, \*Jiayi Kang, **\*#Seungwan Hong**, Caline Karam, Thomas Lehner, and #Gamze Gürsoy  
    *Genome Biology*, 2024.
 
 1. [[HCJG24]](https://www.sciencedirect.com/science/article/pii/S1532046424000960) "Privacy-preserving model evaluation for logistic and linear regression using homomorphically encrypted genotype data"  
-   **Seungwan Hong**, Yoolim A. Choi, Daniel S. Joo, and Gamze Gürsoy  
+   **\*Seungwan Hong**, \*Yoolim A. Choi, Daniel S. Joo, and Gamze Gürsoy  
    *Journal of Biomedical Informatics*, 2024.
 
 1. [[HPC+22]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08469-w) "Secure Tumor Classification by Shallow Neural Network Using Homomorphic Encryption"  
@@ -54,14 +54,14 @@ author_profile: true
 
 ## Preprints
 
-1. [HKLS25] "Composable Functional Encryption from Standard Lattice Assumptions"
-    †**Seungwan Hong**, Jiseung Kim, Changmin Lee, and Minhye Seo
-    under review, 2025.
+1. [[CHK+26]](https://eprint.iacr.org/2026/853) "MRFHE: Mixed-Radix Fully Homomorphic Encryption with Better Batch Bootstrapping"  
+   †Jung Hee Cheon, **Seungwan Hong**, Minsik Kang, Jonghyun Kim, Taeseong Kim, Changmin Lee, and Junho Lee  
+   *IACR Cryptol. ePrint Arch.*, 2026.
 
-1. [[HKLS24]](https://eprint.iacr.org/2024/1859) "Fully Encrypted Machine Learning Protocol using Functional Encryption"
-    †**Seungwan Hong**, Jiseung Kim, Changmin Lee, and Minhye Seo
-    under review, 2024.
+1. [[HKLS25]](https://eprint.iacr.org/2024/1859) "Non-interactive Fully Encrypted Machine Learning Protocol for Inference"  
+   †**Seungwan Hong**, Jiseung Kim, Changmin Lee, and Minhye Seo  
+   *IACR Cryptol. ePrint Arch.*, 2025.
 
-2. [[CHK20]](https://eprint.iacr.org/2020/1581) "Remark on the Security of CKKS Scheme in Practice"   
+1. [[CHK20]](https://eprint.iacr.org/2020/1581) "Remark on the Security of CKKS Scheme in Practice"   
    †Jung Hee Cheon, **Seungwan Hong**, and Duhyeong Kim  
    *IACR Cryptol. ePrint Arch.*, 2020.
